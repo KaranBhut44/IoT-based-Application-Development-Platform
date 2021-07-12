@@ -9,4 +9,6 @@ We have divided whole project into 4 parts, so that each team can work on 1 part
 - Team-3: Monitoring, Fault tolerance, Node management
 - Team-4: sensors and controllers communication module
 
-## You can read requirement and design documents given in ProjectReport folder.
+
+### You can read Requirement and design documents given in Documents folder for group and all teams. I was the part of Team 2. Below is the summary of work done by Team 2.
+
